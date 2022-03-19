@@ -6,3 +6,6 @@
 
 
 验证将另一个github账号添加为合作者Collaborators是否具有读写权限。
+
+
+使用账号liuyongfeng987来替Chasing987账号实现向远端仓库推送！！！
