@@ -3,3 +3,6 @@
 
 
 准备测试github如何进行进行拉取请求(pull request)
+
+
+验证将另一个github账号添加为合作者Collaborators是否具有读写权限。
